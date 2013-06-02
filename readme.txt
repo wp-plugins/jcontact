@@ -28,6 +28,14 @@ e) Email templates for initial contact, approval and rejection is easily customi
 
 == Frequently asked questions ==
 
+= Who will use this plugin? =
+Anyone who need a contact form with email notification to admin. 
+
+= How email notificaiton works? =
+There are 3 types of notifications. First, when the user submits the contact form, an email is sent to the user and admin. Second, in case the admin approves user request, an email is sent to the user. Third, if the admin rejects the user request.
+
+= Can I change the email message? =
+Yes, you can change the email template from admin section. Where you'll have the option to change templates for first contact, approval and rejection of user request.
 
 
 == Screenshots ==
@@ -38,11 +46,9 @@ e) Email templates for initial contact, approval and rejection is easily customi
 
 == Changelog ==
 
+= 1.0 =
 
 
 == Upgrade notice ==
 
-
-
-== Arbitrary section 1 ==
-
+= 1.0 =
