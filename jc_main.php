@@ -1,14 +1,13 @@
 <?php
 	
 /*
-	 Plugin Name: jConjact
-	 Plugin URI: www.njoy.wordpress.com
+	 Plugin Name: jConjact	 
 	 Description: The jContact plugin allows admin to manage visitor's contact information, with email notification. Use shortcode [j-contact].
 	 Author: Amit Malakar (JOY)
 	 Version: 1.0
-	 Author URI: http://www.njoy.wordpress.com
+	 Author URI: http://www.joyapps.wordpress.com
 	 Created by JOY.
-	 (website: www.njoy.wordpress.com	email: njoy.mca@gmail.com)	 
+	 (email: amitmalakar2010@gmail.com)	 
 */
 
 	$siteurl = get_option('siteurl');
