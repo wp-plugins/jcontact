@@ -47,8 +47,13 @@ Yes, you can change the email template from admin section. Where you'll have the
 == Changelog ==
 
 = 1.0 =
-
+First upload.
 
 == Upgrade notice ==
 
 = 1.0 =
+First upload.
+
+
+== Arbitrary section 1 ==
+
